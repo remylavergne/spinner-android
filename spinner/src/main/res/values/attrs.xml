@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="Spinner">
+        <attr name="spinner_hint" format="string" />
+        <attr name="spinner_hint_selectable" format="boolean" />
+        <attr name="spinner_hint_toast_message" format="string" />
+        <attr name="spinner_dialog_show_hint" format="boolean" />
+        <attr name="spinner_title" format="string" />
+        <attr name="spinner_button" format="string" />
+        <attr name="spinner_custom_layout" format="reference" />
+    </declare-styleable>
+</resources>
