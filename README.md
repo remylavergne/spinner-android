@@ -24,7 +24,7 @@ allprojects {
 
 ```groovy
 dependencies {
-    implementation 'com.github.remylavergne:spinner-android:0.3'
+    implementation 'com.github.remylavergne:spinner-android:v0.3'
 }
 ```
 
