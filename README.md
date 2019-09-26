@@ -1,3 +1,5 @@
+[![](https://jitpack.io/v/remylavergne/spinner-android.svg)](https://jitpack.io/#remylavergne/spinner-android)
+
 # Spinner
 
 Spinner API écrite en Kotlin.
