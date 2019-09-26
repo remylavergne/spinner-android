@@ -27,6 +27,7 @@ class MainActivity : AppCompatActivity() {
         this.result = findViewById(R.id.show_result)
         this.spinnerLayout = findViewById(R.id.change_spinner_layout)
 
+
         higherOrderFunction()
 
         // OR
