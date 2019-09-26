@@ -1,6 +1,6 @@
 # Spinner
 
-Spinner écrit en Kotlin.
+Spinner API écrite en Kotlin.
 
 ## Ajouter dans la vue dans le layout
 
