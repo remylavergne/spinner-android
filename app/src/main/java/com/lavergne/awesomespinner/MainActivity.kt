@@ -70,18 +70,19 @@ class MainActivity : AppCompatActivity() {
 
             setItemSelectedListener(object : Spinner.ISpinner {
                 override fun onItemSelected(item: String) {
-                    val sentence = "Choix : $item"
+                    val sentence = "Choice : $item"
                     result.text = sentence
                 }
             })
 
             // This override attrs variables
-            hint("Hint in High Order Function", false, "Unable")
-            showHintInList(true)
+            // hint("Select an awesome value")
+            hint("Select a value", false, "Unable")
+            showHintInList(false)
             // Override du premier hint
             //hint("Title random", false, "Impossible de sélectionner cette partie")
-            title("Title in High Order Function")
-            buttonText("Close with HOF")
+            title("Choose an element")
+            buttonText("Close")
         }
     }
 

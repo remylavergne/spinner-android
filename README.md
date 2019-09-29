@@ -4,10 +4,23 @@
 
 Spinner API écrite en Kotlin.
 
+## Screenshots / gifs
+
+* Simplest behaviour
+
+[![](screenshots/simple-use.gif)]
+
+* Add hint to list
+
+[![](screenshots/default-hint.gif)]
+
+* Add a hint not selectable, only in spinner
+
+[![](screenshots/hint-one-time.gif)]
+
 ## Install
 
-**Step 1.** 
-Add the JitPack repository to your build file
+**Step 1.** Add the JitPack repository to your build file
 
 ```groovy
 allprojects {
